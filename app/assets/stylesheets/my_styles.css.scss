@@ -1,0 +1,55 @@
+body { 
+  background: url('bookshelf.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color:#eeccaa !important;
+}
+a:link{
+	color:#eeccaa !important;
+}
+a:active{
+	color:#eeccaa !important;
+}
+a:visited{
+	color:#eeccaa !important;
+}
+a:hover{
+	color:#eeccaa !important;
+}
+
+p{
+	color:#eeccaa;
+}
+h1{
+	color:#eeccaa !important;
+}
+h2{
+	color:#eeccaa !important;
+}
+h3{
+	color:#eeccaa !important;
+}
+
+
+.btn-custom{
+	background-color:#eeccaa;
+	color:black;
+}
+.navbar-custom{
+	color:#eeccaa;
+ 	background-color: #dd4444;
+ 	
+ }
+ .jumbotron-custom{
+ 	color:#eeccaa !important;
+ 	background-color: #dd4444 !important;
+ 	background-image: none !important;
+ }
+
+ .table-custom{
+ 	background-color: #dd4444 !important;
+ 	background-image: none !important;
+ 	color:#eeccaa;
+ }

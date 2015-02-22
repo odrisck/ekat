@@ -45,6 +45,8 @@ end
 
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 
+gem 'bootstrap-sass-rails', '~> 3.1.0.0'
+
 gem 'simple_form'
 
 gem 'devise'
@@ -52,6 +54,8 @@ gem 'devise'
 gem 'cancan'
 
 gem 'paperclip'
+
+gem "font-awesome-rails"
 
 
 

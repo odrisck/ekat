@@ -57,6 +57,12 @@ GEM
     bcrypt (3.1.10)
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
+    bootstrap-sass (3.1.0.2)
+      sass (~> 3.2)
+    bootstrap-sass-rails (3.1.0.0)
+      bootstrap-sass (~> 3.1.0.0)
+      railties (>= 3.2.0)
+      sass-rails (>= 3.2.0)
     builder (3.2.2)
     byebug (3.5.1)
       columnize (~> 0.8)
@@ -90,6 +96,8 @@ GEM
       dotenv (= 1.0.2)
     erubis (2.7.0)
     execjs (2.3.0)
+    font-awesome-rails (4.3.0.0)
+      railties (>= 3.2, < 5.0)
     friendly_id (5.1.0)
       activerecord (>= 4.0.0)
     globalid (0.3.1)
@@ -220,11 +228,13 @@ PLATFORMS
 DEPENDENCIES
   aasm
   aws-sdk (< 2.0)
+  bootstrap-sass-rails (~> 3.1.0.0)
   byebug
   cancan
   coffee-rails (~> 4.1.0)
   devise
   dotenv-rails
+  font-awesome-rails
   friendly_id
   jbuilder (~> 2.0)
   jquery-rails
