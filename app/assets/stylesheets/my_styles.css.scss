@@ -4,38 +4,38 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  color:#eeccaa !important;
+  color:#eeccaa;
 }
 a:link{
-	color:#eeccaa !important;
+	color:black;
 }
 a:active{
-	color:#eeccaa !important;
+	color:black;
 }
 a:visited{
-	color:#eeccaa !important;
+	color:black;
 }
 a:hover{
-	color:#eeccaa !important;
+	color:black;
 }
 
 p{
 	color:#eeccaa;
 }
 h1{
-	color:#eeccaa !important;
+	color:#eeccaa;
 }
 h2{
-	color:#eeccaa !important;
+	color:#eeccaa;
 }
 h3{
-	color:#eeccaa !important;
+	color:#eeccaa;
 }
 
 
 .btn-custom{
 	background-color:#eeccaa;
-	color:black !important;
+	color:black;
 }
 .navbar-custom{
 	color:#eeccaa;
@@ -43,13 +43,15 @@ h3{
  	
  }
  .jumbotron-custom{
- 	color:#eeccaa !important;
+ 	color:#eeccaa;
  	background-color: #dd4444 !important;
  	background-image: none !important;
+
  }
 
  .table-custom{
  	background-color: #dd4444 !important;
  	background-image: none !important;
  	color:#eeccaa;
+ 	border-radius: 10px;
  }
