@@ -45,7 +45,7 @@ end
 
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 
-gem 'bootstrap-sass-rails', '~> 3.1.0.0'
+gem 'bootstrap-sass', '~> 3.3.3'
 
 gem 'simple_form'
 
